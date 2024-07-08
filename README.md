@@ -12,4 +12,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 <br>
 
 
-Link do Projeto: [https://github.com/](https://github.com/)
+Link do Projeto: [https://mariana-nogueira21.github.io/dino-game/](https://mariana-nogueira21.github.io/dino-game/)
